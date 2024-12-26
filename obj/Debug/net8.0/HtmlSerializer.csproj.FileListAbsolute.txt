@@ -1,0 +1,17 @@
+C:\Users\mital\Desktop\סמינר\HtmlSerializer\HtmlSerializer\bin\Debug\net8.0\HtmlSerializer.exe
+C:\Users\mital\Desktop\סמינר\HtmlSerializer\HtmlSerializer\bin\Debug\net8.0\HtmlSerializer.deps.json
+C:\Users\mital\Desktop\סמינר\HtmlSerializer\HtmlSerializer\bin\Debug\net8.0\HtmlSerializer.runtimeconfig.json
+C:\Users\mital\Desktop\סמינר\HtmlSerializer\HtmlSerializer\bin\Debug\net8.0\HtmlSerializer.dll
+C:\Users\mital\Desktop\סמינר\HtmlSerializer\HtmlSerializer\bin\Debug\net8.0\HtmlSerializer.pdb
+C:\Users\mital\Desktop\סמינר\HtmlSerializer\HtmlSerializer\obj\Debug\net8.0\HtmlSerializer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mital\Desktop\סמינר\HtmlSerializer\HtmlSerializer\obj\Debug\net8.0\HtmlSerializer.AssemblyInfoInputs.cache
+C:\Users\mital\Desktop\סמינר\HtmlSerializer\HtmlSerializer\obj\Debug\net8.0\HtmlSerializer.AssemblyInfo.cs
+C:\Users\mital\Desktop\סמינר\HtmlSerializer\HtmlSerializer\obj\Debug\net8.0\HtmlSerializer.csproj.CoreCompileInputs.cache
+C:\Users\mital\Desktop\סמינר\HtmlSerializer\HtmlSerializer\obj\Debug\net8.0\HtmlSerializer.dll
+C:\Users\mital\Desktop\סמינר\HtmlSerializer\HtmlSerializer\obj\Debug\net8.0\refint\HtmlSerializer.dll
+C:\Users\mital\Desktop\סמינר\HtmlSerializer\HtmlSerializer\obj\Debug\net8.0\HtmlSerializer.pdb
+C:\Users\mital\Desktop\סמינר\HtmlSerializer\HtmlSerializer\obj\Debug\net8.0\HtmlSerializer.genruntimeconfig.cache
+C:\Users\mital\Desktop\סמינר\HtmlSerializer\HtmlSerializer\obj\Debug\net8.0\ref\HtmlSerializer.dll
+C:\Users\mital\Desktop\סמינר\HtmlSerializer\HtmlSerializer\bin\Debug\net8.0\HtmlTags.json
+C:\Users\mital\Desktop\סמינר\HtmlSerializer\HtmlSerializer\bin\Debug\net8.0\HtmlVoidTags.json
+C:\Users\mital\Desktop\סמינר\HtmlSerializer\HtmlSerializer\obj\Debug\net8.0\HtmlSerializer.sourcelink.json
